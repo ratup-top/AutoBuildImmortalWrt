@@ -33,6 +33,7 @@ on:
           - glinet_gl-b2200
           - glinet_gl-x3000
           - glinet_gl-xe3000
+          - d-team_newifi-d2
           # 就是Fudy MT3000
           - huasifei_wh3000-emmc
           - cudy_tr3000-v1
@@ -222,7 +223,6 @@ on:
           - cudy_wr2100
           - cudy_x6-v1
           - cudy_x6-v2
-          - d-team_newifi-d2
           - d-team_pbr-m1
           - dlink_covr-x1860-a1
           - dlink_dap-1620-b1
